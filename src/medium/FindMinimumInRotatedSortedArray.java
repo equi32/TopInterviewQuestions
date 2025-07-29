@@ -1,4 +1,4 @@
-package basic;
+package medium;
 
 public class FindMinimumInRotatedSortedArray {
 
