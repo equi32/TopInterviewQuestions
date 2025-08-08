@@ -1,4 +1,4 @@
-package basic;
+package easy;
 
 public class MiddleOfTheLinkedList {
     public static class ListNode {

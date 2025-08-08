@@ -1,6 +1,4 @@
-package basic;
-
-import java.util.Stack;
+package easy;
 
 public class PalindromeNumber {
 
