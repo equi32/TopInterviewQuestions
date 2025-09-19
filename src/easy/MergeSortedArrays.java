@@ -8,6 +8,14 @@ public class MergeSortedArrays {
         int j = n - 1;
         int k = m + n - 1;
 
+        String S = "1234";
+        String T = "1234";
+
+        S.equals(T);
+
+        Arrays.stream(nums1).sorted().toArray();
+        Arrays.sort(nums1);
+
         while (j >= 0) {
             if (i >= 0 && nums1[i] > nums2[j]) {
                 nums1[k--] = nums1[i--];
